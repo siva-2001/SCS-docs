@@ -11,3 +11,4 @@
 ### Внешние ресурсы
 
 + **Mind map:** https://www.mindmeister.com/map/2412875348
++ **Design:** https://www.figma.com/file/SgV0uT81PLIA70uQsDodSz/Untitled?node-id=0%3A1
