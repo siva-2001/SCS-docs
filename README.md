@@ -15,7 +15,7 @@
 + **Дизайн макет:** https://www.figma.com/file/SgV0uT81PLIA70uQsDodSz/Untitled?node-id=0%3A1
 + **Диаграмма классов:** https://app.diagrams.net/#G1DnxzrHFTxSZOgobV1GP5E33agQKodTgo
 + **Диаграмма use-case:** https://app.diagrams.net/#G1MKqjdtZ5wg-z2K6itPpZLHoIxtl6lYjM
-+ **ТЗ Дизайн макет:** https://docs.google.com/document/d/1c8e2cfaMJX0u0C_pgHfyh8VZ47j7fGRyI8SyIU9N6Gw/edit
++ **Версионность функционала:** https://docs.google.com/document/d/1l1NnPGFQKZYgYw81xS4IzgaLKGBY9eWJDLEY81ChXPg/edit 
 + **Задачи:** https://miro.com/app/board/uXjVPQYlLUE=/
 
 ### Контакты
@@ -25,3 +25,4 @@
 + igran2001@gmail.com
 + georgii2911@gmail.com
 
+https://docs.google.com/document/d/1l1NnPGFQKZYgYw81xS4IzgaLKGBY9eWJDLEY81ChXPg/edit
