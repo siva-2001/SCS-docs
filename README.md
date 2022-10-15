@@ -25,4 +25,3 @@
 + igran2001@gmail.com
 + georgii2911@gmail.com
 
-https://docs.google.com/document/d/1l1NnPGFQKZYgYw81xS4IzgaLKGBY9eWJDLEY81ChXPg/edit
