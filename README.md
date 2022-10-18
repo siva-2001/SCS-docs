@@ -12,7 +12,8 @@
 ### Внешние ресурсы
 
 + **Mind map:** https://www.mindmeister.com/map/2412875348
-+ **Дизайн макет:** https://www.figma.com/file/SgV0uT81PLIA70uQsDodSz/Untitled?node-id=0%3A1
++ **Дизайн макет (демо):** https://www.figma.com/file/SgV0uT81PLIA70uQsDodSz/Untitled?node-id=0%3A1
++ **Дизайн макет:** https://www.figma.com/file/otnhMWdfax0Y8R6S2jDHiN/Untitled?node-id=0%3A1
 + **Диаграмма классов:** https://app.diagrams.net/#G1DnxzrHFTxSZOgobV1GP5E33agQKodTgo
 + **Диаграмма use-case:** https://app.diagrams.net/#G1MKqjdtZ5wg-z2K6itPpZLHoIxtl6lYjM
 + **Версионность функционала:** https://docs.google.com/document/d/1l1NnPGFQKZYgYw81xS4IzgaLKGBY9eWJDLEY81ChXPg/edit 
