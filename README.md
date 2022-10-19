@@ -18,7 +18,7 @@
 + **Диаграмма use-case:** https://app.diagrams.net/#G1MKqjdtZ5wg-z2K6itPpZLHoIxtl6lYjM
 + **Версионность функционала:** https://docs.google.com/document/d/1l1NnPGFQKZYgYw81xS4IzgaLKGBY9eWJDLEY81ChXPg/edit 
 + **Задачи:** https://miro.com/app/board/uXjVPQYlLUE=/
-
++ **Репозиторий мобильного приложения:** https://github.com/chzhen-g/SCS-mobile
 + **Отчёт:** https://docs.google.com/document/d/1TMTGOiZYhW7XZeep2AEsiOcGkbGScGFaSdud9IcWiTQ/edit
 ### Контакты
 
