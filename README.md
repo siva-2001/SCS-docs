@@ -19,6 +19,7 @@
 + **Версионность функционала:** https://docs.google.com/document/d/1l1NnPGFQKZYgYw81xS4IzgaLKGBY9eWJDLEY81ChXPg/edit 
 + **Задачи:** https://miro.com/app/board/uXjVPQYlLUE=/
 
++ **Отчёт: ** https://docs.google.com/document/d/1TMTGOiZYhW7XZeep2AEsiOcGkbGScGFaSdud9IcWiTQ/edit
 ### Контакты
 
 + slava.kutolvas@gmail.com
